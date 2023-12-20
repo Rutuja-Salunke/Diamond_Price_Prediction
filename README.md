@@ -1,4 +1,4 @@
-# Diamond_Price_Prediction
+#  "GemForecast: Diamonds in Data"
 
 Diamond price prediction using machine learning is a fascinating project that taps into cutting-edge computational techniques 💎🤖. By harnessing the power of machine learning algorithms, it aims to unlock insights into the future market values of diamonds, taking into account a myriad of factors. The project delves into the analysis of historical data, intricate gemological features, dynamic market trends, and other crucial variables to craft a robust predictive model 📈🔍.
 
