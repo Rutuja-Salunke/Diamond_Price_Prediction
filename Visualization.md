@@ -1,1 +1,12 @@
-
+# Heatmap :
+A heatmap is a visual representation of data in a matrix form, where values are depicted as colors on a grid. It is commonly used to display relationships or patterns in a dataset by assigning colors to data points based on their values. Warm colors (e.g., red) often represent high values, while cool colors (e.g., blue) represent low values. Heatmaps are valuable for visualizing correlations, trends, or variations in large datasets.
+![HEATMAP](https://github.com/Rutuja-Salunke/Diamond_Price_Prediction/assets/102023809/f356b94d-ea48-488e-a203-b3592bea909b)
+# Pairplot:
+A pairplot is a grid of scatterplots and histograms used to explore pairwise relationships between variables in a multivariate dataset. It provides a visual overview of how variables interact with each other, making it easier to identify correlations and patterns. Pairplots are particularly valuable in exploratory data analysis to uncover insights and guide further analysis.
+![PAIRPLOT](https://github.com/Rutuja-Salunke/Diamond_Price_Prediction/assets/102023809/59178e81-922a-4da3-8247-aa8f114afe17)
+# KDE plot:
+KDEplot, short for Kernel Density Estimation plot, is a data visualization technique used to estimate and visualize the probability density function of a continuous variable. It works by smoothing the data points to create a continuous curve that represents the underlying distribution of the data. KDEplots are particularly useful for understanding the shape and pattern of data distributions, revealing multiple modes or peaks, and providing a more detailed view of data density compared to traditional histograms. They are commonly used in data analysis and data exploration to gain insights into the distribution of variables.
+![KDE_PLOT](https://github.com/Rutuja-Salunke/Diamond_Price_Prediction/assets/102023809/925a749d-fa9d-4db2-9d5b-d513dffbf45f)
+# Scatterplot:
+A scatterplot is a two-dimensional graph that displays individual data points as dots on a coordinate system, with one variable plotted on the x-axis and another on the y-axis. Scatterplots are used to visualize the relationship or correlation between two continuous variables. They help identify patterns, trends, clusters, or outliers in the data and are essential for assessing the strength and direction of associations between variables.
+![SCATTERPLOT](https://github.com/Rutuja-Salunke/Diamond_Price_Prediction/assets/102023809/afb6bf8d-2c82-4e49-a8f4-d77c9aac2aea)
