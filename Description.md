@@ -1,4 +1,4 @@
-**Diamond Price Prediction Project Overview:**
+# "DiamondSpark: Unveiling the Future of Pricing with Machine Learning Brilliance"
 
 1. **Objective:**
    - Develop a machine learning model to predict diamond prices based on various factors.
